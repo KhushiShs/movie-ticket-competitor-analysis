@@ -26,7 +26,7 @@ The project includes an interactive **Streamlit dashboard** and a **data pipelin
 ---
 
 ## **Price Trend Example**
-![Price Trend](Images/price_Trend.png)
+![Price Trend](Images/Price_Trend.png)
 
 ---
 
@@ -107,4 +107,4 @@ movie_ticket_tracker/
 ---
 
 ## **Author**
-Developed by *[Khushi Sharma]* 🚀
+Developed by *Khushi Sharma* 🚀
