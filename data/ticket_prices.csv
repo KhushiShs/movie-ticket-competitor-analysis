@@ -1,0 +1,91 @@
+date,platform,city,movie,theatre,seat_type,price,show_time,booking_fees,total_price
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Silver,150,7:30 PM,30,180
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Silver,145,7:30 PM,35,180
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Gold,250,7:30 PM,30,280
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Gold,245,7:30 PM,35,280
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Platinum,350,7:30 PM,30,380
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Platinum,345,7:30 PM,35,380
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Silver,150,7:30 PM,30,180
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Silver,145,7:30 PM,35,180
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Gold,250,7:30 PM,30,280
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Gold,245,7:30 PM,35,280
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Platinum,350,7:30 PM,30,380
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Platinum,345,7:30 PM,35,380
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Silver,150,7:30 PM,30,180
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Silver,145,7:30 PM,35,180
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Gold,250,7:30 PM,30,280
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Gold,245,7:30 PM,35,280
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Platinum,350,7:30 PM,30,380
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Platinum,345,7:30 PM,35,380
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Silver,150,7:30 PM,30,180
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Silver,145,7:30 PM,35,180
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Gold,250,7:30 PM,30,280
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Gold,245,7:30 PM,35,280
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Platinum,350,7:30 PM,30,380
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Platinum,345,7:30 PM,35,380
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Silver,150,7:30 PM,30,180
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Silver,145,7:30 PM,35,180
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Gold,250,7:30 PM,30,280
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Gold,245,7:30 PM,35,280
+2025-07-25,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Platinum,350,7:30 PM,30,380
+2025-07-25,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Platinum,345,7:30 PM,35,380
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Silver,155,7:30 PM,30,185
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Silver,150,7:30 PM,35,185
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Gold,255,7:30 PM,30,285
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Gold,250,7:30 PM,35,285
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Platinum,355,7:30 PM,30,385
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Platinum,350,7:30 PM,35,385
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Silver,155,7:30 PM,30,185
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Silver,150,7:30 PM,35,185
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Gold,255,7:30 PM,30,285
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Gold,250,7:30 PM,35,285
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Platinum,355,7:30 PM,30,385
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Platinum,350,7:30 PM,35,385
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Silver,155,7:30 PM,30,185
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Silver,150,7:30 PM,35,185
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Gold,255,7:30 PM,30,285
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Gold,250,7:30 PM,35,285
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Platinum,355,7:30 PM,30,385
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Platinum,350,7:30 PM,35,385
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Silver,155,7:30 PM,30,185
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Silver,150,7:30 PM,35,185
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Gold,255,7:30 PM,30,285
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Gold,250,7:30 PM,35,285
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Platinum,355,7:30 PM,30,385
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Platinum,350,7:30 PM,35,385
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Silver,155,7:30 PM,30,185
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Silver,150,7:30 PM,35,185
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Gold,255,7:30 PM,30,285
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Gold,250,7:30 PM,35,285
+2025-07-26,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Platinum,355,7:30 PM,30,385
+2025-07-26,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Platinum,350,7:30 PM,35,385
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Silver,160,7:30 PM,30,190
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Silver,155,7:30 PM,35,190
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Gold,260,7:30 PM,30,290
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Gold,255,7:30 PM,35,290
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Platinum,360,7:30 PM,30,390
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,PVR Koramangala,Platinum,355,7:30 PM,35,390
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Silver,160,7:30 PM,30,190
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Silver,155,7:30 PM,35,190
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Gold,260,7:30 PM,30,290
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Gold,255,7:30 PM,35,290
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Platinum,360,7:30 PM,30,390
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,INOX Garuda Mall,Platinum,355,7:30 PM,35,390
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Silver,160,7:30 PM,30,190
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Silver,155,7:30 PM,35,190
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Gold,260,7:30 PM,30,290
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Gold,255,7:30 PM,35,290
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Platinum,360,7:30 PM,30,390
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,Cinepolis Orion Mall,Platinum,355,7:30 PM,35,390
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Silver,160,7:30 PM,30,190
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Silver,155,7:30 PM,35,190
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Gold,260,7:30 PM,30,290
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Gold,255,7:30 PM,35,290
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Platinum,360,7:30 PM,30,390
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,Gopalan Cinemas,Platinum,355,7:30 PM,35,390
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Silver,160,7:30 PM,30,190
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Silver,155,7:30 PM,35,190
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Gold,260,7:30 PM,30,290
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Gold,255,7:30 PM,35,290
+2025-07-27,BMS,Bengaluru,Deadpool & Wolverine,INOX Lido,Platinum,360,7:30 PM,30,390
+2025-07-27,Paytm,Bengaluru,Deadpool & Wolverine,INOX Lido,Platinum,355,7:30 PM,35,390
