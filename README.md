@@ -26,7 +26,7 @@ The project includes an interactive **Streamlit dashboard** and a **data pipelin
 ---
 
 ## **Price Trend Example**
-![Price Trend](Images/price_trend.png)
+![Price Trend](Images/price_Trend.png)
 
 ---
 
@@ -48,17 +48,18 @@ movie_ticket_tracker/
 ├── data/
 │   ├── ticket_prices.csv        # Raw data
 │   ├── analysis_summary.csv     # Analysis results
-│   └── forecasts/               # Forecast output
 ├── scripts/
 │   ├── app.py                   # Streamlit dashboard
-│   └── pipeline/
-│       ├── run_pipeline.py      # Data pipeline
-│       ├── forecasting.py       # Forecasting logic
-│       └── utils.py             # Helper functions
-├── images/
-│   ├── dashboard.png
+│   ├── analyze.py               # Data analysis script
+│   ├── run_both.py              # Runs both scrapers and analysis
+│   ├── scraper_bms.py           # Scraper for BookMyShow
+│   ├── scraper_paytm.py         # Scraper for Paytm Movies
+│       
+├── Images/
+│   ├── Dashboard.png
 │   ├── price_trend.png
-│   └── architecture.png
+│   ├── BMS.png                  # BookMyShow data visualization
+│   ├── Paytm_graph.png          # Paytm graph visualization
 ├── requirements.txt
 └── README.md
 ```
@@ -106,4 +107,4 @@ movie_ticket_tracker/
 ---
 
 ## **Author**
-Developed by *[Your Name]* 🚀
+Developed by *[Khushi Sharma]* 🚀
