@@ -63,6 +63,13 @@ movie_ticket_tracker/
 ├── requirements.txt
 └── README.md
 ```
+## 📊 Platform-Specific Visualizations
+
+### 🎟️ BookMyShow Ticket Price Trends
+![BookMyShow Visualization](Images/BMS.png)
+
+### 🅿️ Paytm Ticket Price Trends
+![Paytm Visualization](Images/Paytm_graph.png)
 
 ---
 
