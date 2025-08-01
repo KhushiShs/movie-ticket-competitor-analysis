@@ -6,7 +6,7 @@ The project includes an interactive **Streamlit dashboard** and a **data pipelin
 ---
 
 ## **Dashboard Preview**
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
@@ -26,12 +26,7 @@ The project includes an interactive **Streamlit dashboard** and a **data pipelin
 ---
 
 ## **Price Trend Example**
-![Price Trend](images/price_trend.png)
-
----
-
-## **Pipeline Architecture**
-![Pipeline Architecture](images/architecture.png)
+![Price Trend](Images/price_trend.png)
 
 ---
 
