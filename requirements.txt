@@ -1,0 +1,6 @@
+playwright
+pandas
+streamlit
+plotly
+prophet
+scikit-learn
