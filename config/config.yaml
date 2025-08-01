@@ -1,0 +1,21 @@
+data:
+  path_raw: "data/ticket_prices.csv"
+  path_summary: "data/analysis_summary.csv"
+  forecast_output_dir: "data/forecasts"
+
+pipeline:
+  horizon_days: 7
+  model: "prophet"         # "prophet" or "linear"
+  anomaly:
+    window: 5
+    z_threshold: 2.0
+
+experiments:
+  experiment_name: "ticket_price_forecasts"
+  run_name_template: "{city}_{movie}_{platform}_{seat_type}"
+
+scope:
+  cities: ["Bengaluru", "Mumbai"]
+  movies: ["Deadpool & Wolverine", "Kalki 2898 AD"]
+  seat_types: ["Silver", "Gold", "Platinum"]
+  platforms: ["BMS", "Paytm"]
